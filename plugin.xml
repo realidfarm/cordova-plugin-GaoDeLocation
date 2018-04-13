@@ -13,7 +13,7 @@
             </feature>
         </config-file>
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
-            <meta-data android:name="com.amap.api.v2.apikey" android:value="ca631bbcc6fb0bd9d3bc9c9e5b1b1a6b"></meta-data>
+            <meta-data android:name="com.amap.api.v2.apikey" android:value="dc9e1cc24cc3c8375468a9545fdfe794"></meta-data>
             <service android:name="com.amap.api.location.APSService"></service>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml">
